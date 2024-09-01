@@ -65,5 +65,3 @@ Contents: Model training. Model testing. Future forecasts.
 Purpose: Utilizes a Random Forest model to predict PM2.5 levels.
 
 Contents: Model training. Model testing. Future forecasts.
-
-# Recommended Sequence for Running Scripts
