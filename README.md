@@ -2,6 +2,10 @@
 
 This repository contains four Python notebooks (EDA.ipynb, LSTM.ipynb, XGBoost.ipynb, Random Forest.ipynb) and one R script (use nasapower.R)
 
+Due to data protection, I am unable to provide the datasets used here, but if needed, you can apply to access the relevant data on this website.
+
+[https://analytics.airqo.net/](https://analytics.airqo.net/)
+
 # Dependencies
 #### This project requires the following Python libraries:
 
