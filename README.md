@@ -56,16 +56,16 @@ Contents: Fetching temperature, relative humidity, and precipitation data from N
           Augmentation of the original air quality measurements with meteorological data.
 
 # LSTM.ipynb
-Purpose: Constructs and evaluates a Long Short-Term Memory (LSTM) model for forecasting PM2.5 levels.
+Purpose: Constructs and evaluates a LSTM model for forecasting PM2.5 levels.
 
 Contents: Model training. Model testing. Future forecasts.
 
 # XGBoost.ipynb
-Purpose: Employs an XGBoost model for forecasting purposes.
+Purpose: Constructs and evaluates an XGBoost model for forecasting PM2.5 levels.
 
 Contents: Model training. Model testing. Future forecasts.
 
 # Random Forest.ipynb
-Purpose: Utilizes a Random Forest model to predict PM2.5 levels.
+Purpose: Constructs and evaluates a Random Forest model for forecasting PM2.5 levels.
 
 Contents: Model training. Model testing. Future forecasts.
